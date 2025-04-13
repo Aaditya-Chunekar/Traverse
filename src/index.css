@@ -1,0 +1,12 @@
+
+@import "tailwindcss";
+body {
+  background: linear-gradient(to bottom, #0f172a, #1e1b4b);
+  min-height: 100vh;
+  color: white;
+  overflow-x: hidden;
+}
+
+::selection  {
+    color: aqua;
+}
